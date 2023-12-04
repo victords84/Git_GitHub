@@ -11,3 +11,5 @@ la fecha es 2023.
 modificamos el usuario y contraseña.
 
 Comenzando con Git.
+
+git show agregado
