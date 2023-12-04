@@ -12,4 +12,6 @@ modificamos el usuario y contraseña.
 
 Comenzando con Git.
 
-git show agregado
+git show agregadoç
+
+commit de prueba
