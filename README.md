@@ -1,2 +1,2 @@
 # AppCursoGit
-Aoo creada para el curso Git y GitHub
+App creada para el curso Git y GitHub
