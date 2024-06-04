@@ -14,7 +14,7 @@ Comenzando con Git.
 
 git show agregadoç
 
-commit de prueba
+commit de pruebadddd
 
 commit2
 
